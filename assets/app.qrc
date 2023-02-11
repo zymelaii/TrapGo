@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>texture/grass.png</file>
+    </qresource>
+</RCC>
